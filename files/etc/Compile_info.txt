@@ -1,0 +1,6 @@
+OpenWrt master r19345-72b93b77a5 / 2022-04-02 10:45
+---
+main      2022-04-01 72b93b7 bpf-headers: support CONFIG_HZ=300
+luci      2022-03-30 5ef73b6 Translated using Weblate (Indonesian)
+packages  2022-04-01 2784618 glibs: revert "fix compilation with Alpin
+routing   2022-04-01 65f747a naywatch: fix reboot_now
